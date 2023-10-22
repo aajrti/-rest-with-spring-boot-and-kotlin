@@ -1,1 +1,1 @@
-# -rest-with-spring-boot-and-kotlin
+# rest-with-spring-boot-and-kotlin
